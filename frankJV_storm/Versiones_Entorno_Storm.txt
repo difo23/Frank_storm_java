@@ -1,11 +1,11 @@
 
-Sistemas operativo Linux mint y ubuntu:
+Sistemas operativos Linux mint y ubuntu:
 64 bit
 
 
 Versiones Java, Maven:
 
-lramirez@lramirez-SATELLITE-PRO-C850-1HD:~/Dropbox/git_node/frank_storm_code/v2/JFrank_storm/frankJV_storm$ mvn -version
+$ mvn -version
 Apache Maven 3.0.5
 Maven home: /usr/share/maven
 Java version: 1.8.0_31, vendor: Oracle Corporation
@@ -14,13 +14,13 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "3.16.0-30-generic", arch: "amd64", family: "unix"
 
 
-lramirez@lramirez-SATELLITE-PRO-C850-1HD:~/Dropbox/git_node/frank_storm_code/v2/JFrank_storm/frankJV_storm$ java -version
+$ java -version
 java version "1.8.0_31"
 Java(TM) SE Runtime Environment (build 1.8.0_31-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.31-b07, mixed mode)
 
 
-lramirez@lramirez-SATELLITE-PRO-C850-1HD:~/Dropbox/git_node/frank_storm_code/v2/JFrank_storm/frankJV_storm$ javac -version
+$ javac -version
 javac 1.8.0_31
 
 Versiones zookeeper, storm, jzmq, zeromq:
